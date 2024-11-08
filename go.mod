@@ -1,4 +1,5 @@
-module common_utils
+module github.com/dinesh-14699/common_utils
+
 
 go 1.23.0
 
